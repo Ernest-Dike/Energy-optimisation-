@@ -1,0 +1,4 @@
+mkdir ai-energy-optimizer
+cd ai-energy-optimizer
+npm init -y
+npm install express cors dotenv uuid
