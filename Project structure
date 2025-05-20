@@ -1,0 +1,12 @@
+ai-energy-optimizer/
+├── controllers/
+│   └── energyController.js
+├── models/
+│   └── usageModel.js
+├── routes/
+│   └── energyRoutes.js
+├── utils/
+│   └── aiSuggestions.js
+├── app.js
+├── server.js
+├── package.json
